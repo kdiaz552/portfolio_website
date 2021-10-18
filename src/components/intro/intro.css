@@ -1,7 +1,7 @@
 .i{
     display: flex;
     height: 100vh;
-    background-color: rgb(246, 247, 250);
+    background-color: rgb(247, 248, 240);
 }
 
 .i-left{
@@ -63,6 +63,13 @@
     color:rgb(91, 113, 236);
     display: flex;
     align-items: center;
+}
+
+.i-scroll{
+    width: 30px;
+    height: 30px;
+    position: absolute;
+    bottom: 20px;
 }
 
 .i-img{
